@@ -1,4 +1,8 @@
-### Alou!! Me chamo João Vitor Sousa
+### Ola!! Me chamo João Vitor Sousa
+
+  🎓 Sou estudante de engenharia mecânica na UDESC
+  🛩️ Participo do projeto Albatroz AeroDesign 
+  🦾 Sou técnico em automação industrial 
 
 <div align="center">
   <a href="https://github.com/Jsousa576">
