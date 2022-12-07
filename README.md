@@ -1,4 +1,4 @@
-### Ola!! Me chamo João Vitor Sousa
+### Ola!! Me chamo João Vitor Santos de Sousa
 
   🎓 Sou estudante de engenharia mecânica na UDESC
   🛩️ Participo do projeto Albatroz AeroDesign 
